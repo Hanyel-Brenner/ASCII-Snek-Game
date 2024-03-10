@@ -6,4 +6,5 @@ For the management of time the time.h library is used, meaning only standard C l
 Compiler is MingW, so to run application type following in windows command prompt:
 
 gcc main.c frame.c -o3 -o main
+
 ./main
